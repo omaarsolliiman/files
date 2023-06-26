@@ -1,0 +1,183 @@
+%PDF-1.3
+3 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 32.00 32.00]
+/Contents 4 0 R
+>>
+endobj
+4 0 obj
+<</Length 833>>
+stream
+0.20 w
+0 G
+12.147 5.390 m 
+18.963 5.390 l
+22.713 5.390 24.522 7.198 24.522 10.949 c
+24.522 21.735 l
+24.522 25.485 22.713 27.294 18.963 27.294 c
+12.147 27.294 l
+8.397 27.294 6.588 25.485 6.588 21.735 c
+6.588 10.949 l
+6.588 7.198 8.397 5.390 12.147 5.390 c
+ h
+12.147 7.165 m 
+9.511 7.165 8.364 8.312 8.364 10.949 c
+8.364 21.735 l
+8.364 24.371 9.511 25.518 12.147 25.518 c
+18.963 25.518 l
+21.599 25.518 22.746 24.371 22.746 21.735 c
+22.746 10.949 l
+22.746 8.312 21.599 7.165 18.963 7.165 c
+12.147 7.165 l
+ h
+7.482 19.949 m 
+23.629 19.949 l
+23.629 21.063 l
+7.482 21.063 l
+7.482 19.949 l
+ h
+0.00 0.00 0.00 rg
+12.500 19.198 m 
+18.610 19.198 l
+19.371 19.198 19.934 19.739 19.934 20.511 c
+19.934 21.283 19.371 21.824 18.610 21.824 c
+12.500 21.824 l
+11.772 21.824 11.176 21.283 11.176 20.511 c
+11.176 19.739 11.772 19.198 12.500 19.198 c
+ h
+f
+endstream
+endobj
+1 0 obj
+<</Type /Pages
+/Kids [3 0 R ]
+/Count 1
+>>
+endobj
+5 0 obj
+<</BaseFont/Helvetica/Type/Font
+/Encoding/StandardEncoding
+/Subtype/Type1>>
+endobj
+6 0 obj
+<</BaseFont/Helvetica-Bold/Type/Font
+/Encoding/StandardEncoding
+/Subtype/Type1>>
+endobj
+7 0 obj
+<</BaseFont/Helvetica-Oblique/Type/Font
+/Encoding/StandardEncoding
+/Subtype/Type1>>
+endobj
+8 0 obj
+<</BaseFont/Helvetica-BoldOblique/Type/Font
+/Encoding/StandardEncoding
+/Subtype/Type1>>
+endobj
+9 0 obj
+<</BaseFont/Courier/Type/Font
+/Encoding/StandardEncoding
+/Subtype/Type1>>
+endobj
+10 0 obj
+<</BaseFont/Courier-Bold/Type/Font
+/Encoding/StandardEncoding
+/Subtype/Type1>>
+endobj
+11 0 obj
+<</BaseFont/Courier-Oblique/Type/Font
+/Encoding/StandardEncoding
+/Subtype/Type1>>
+endobj
+12 0 obj
+<</BaseFont/Courier-BoldOblique/Type/Font
+/Encoding/StandardEncoding
+/Subtype/Type1>>
+endobj
+13 0 obj
+<</BaseFont/Times-Roman/Type/Font
+/Encoding/StandardEncoding
+/Subtype/Type1>>
+endobj
+14 0 obj
+<</BaseFont/Times-Bold/Type/Font
+/Encoding/StandardEncoding
+/Subtype/Type1>>
+endobj
+15 0 obj
+<</BaseFont/Times-Italic/Type/Font
+/Encoding/StandardEncoding
+/Subtype/Type1>>
+endobj
+16 0 obj
+<</BaseFont/Times-BoldItalic/Type/Font
+/Encoding/StandardEncoding
+/Subtype/Type1>>
+endobj
+2 0 obj
+<<
+/ProcSet [/PDF /Text /ImageB /ImageC /ImageI]
+/Font <<
+/F1 5 0 R
+/F2 6 0 R
+/F3 7 0 R
+/F4 8 0 R
+/F5 9 0 R
+/F6 10 0 R
+/F7 11 0 R
+/F8 12 0 R
+/F9 13 0 R
+/F10 14 0 R
+/F11 15 0 R
+/F12 16 0 R
+>>
+/XObject <<
+>>
+>>
+endobj
+17 0 obj
+<<
+/Producer (jsPDF 1.0.0-trunk)
+/CreationDate (D:20230624092728+03'00')
+>>
+endobj
+18 0 obj
+<<
+/Type /Catalog
+/Pages 1 0 R
+/OpenAction [3 0 R /FitH null]
+/PageLayout /OneColumn
+>>
+endobj
+xref
+0 19
+0000000000 65535 f 
+0000000998 00000 n 
+0000002209 00000 n 
+0000000009 00000 n 
+0000000116 00000 n 
+0000001055 00000 n 
+0000001146 00000 n 
+0000001242 00000 n 
+0000001341 00000 n 
+0000001444 00000 n 
+0000001533 00000 n 
+0000001628 00000 n 
+0000001726 00000 n 
+0000001828 00000 n 
+0000001922 00000 n 
+0000002015 00000 n 
+0000002110 00000 n 
+0000002433 00000 n 
+0000002525 00000 n 
+trailer
+<<
+/Size 19
+/Root 18 0 R
+/Info 17 0 R
+>>
+startxref
+2629
+%%EOF

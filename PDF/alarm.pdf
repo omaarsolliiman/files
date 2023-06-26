@@ -1,0 +1,206 @@
+%PDF-1.3
+3 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 32.00 32.00]
+/Contents 4 0 R
+>>
+endobj
+4 0 obj
+<</Length 1669>>
+stream
+0.20 w
+0 G
+16.191 5.360 m 
+22.015 5.360 26.735 10.081 26.735 15.904 c
+26.735 21.728 22.015 26.460 16.191 26.460 c
+10.368 26.460 5.647 21.728 5.647 15.904 c
+5.647 10.081 10.368 5.360 16.191 5.360 c
+ h
+16.191 7.246 m 
+11.404 7.246 7.533 11.118 7.533 15.904 c
+7.533 20.680 11.404 24.563 16.191 24.563 c
+20.967 24.563 24.849 20.680 24.849 15.904 c
+24.849 11.118 20.967 7.246 16.191 7.246 c
+ h
+7.136 23.625 m 
+7.301 23.625 7.423 23.647 7.577 23.768 c
+11.272 26.559 l
+11.449 26.691 11.548 26.868 11.548 27.055 c
+11.548 27.287 11.437 27.474 11.250 27.651 c
+10.831 28.026 10.081 28.235 9.419 28.235 c
+7.699 28.235 6.320 26.857 6.320 25.136 c
+6.320 24.728 6.386 24.320 6.507 24.066 c
+6.629 23.790 6.860 23.625 7.136 23.625 c
+ h
+25.246 23.625 m 
+25.522 23.625 25.754 23.801 25.886 24.066 c
+25.996 24.309 26.063 24.728 26.063 25.136 c
+26.063 26.857 24.695 28.235 22.963 28.235 c
+22.301 28.235 21.551 28.026 21.132 27.651 c
+20.945 27.474 20.835 27.287 20.835 27.055 c
+20.835 26.868 20.934 26.691 21.121 26.559 c
+24.805 23.768 l
+24.971 23.647 25.081 23.625 25.246 23.625 c
+ h
+6.971 5.680 m 
+7.301 5.338 7.842 5.338 8.184 5.691 c
+10.268 7.765 l
+9.077 8.945 l
+6.982 6.871 l
+6.640 6.540 6.651 6.000 6.971 5.680 c
+ h
+25.412 5.680 m 
+25.743 6.000 25.743 6.540 25.401 6.871 c
+23.305 8.945 l
+22.125 7.765 l
+24.198 5.691 l
+24.540 5.338 25.081 5.338 25.412 5.680 c
+ h
+0.00 0.00 0.00 rg
+11.173 14.691 m 
+16.180 14.691 l
+16.610 14.691 16.952 15.022 16.952 15.452 c
+16.952 22.136 l
+16.952 22.566 16.610 22.908 16.180 22.908 c
+15.750 22.908 15.419 22.566 15.419 22.136 c
+15.419 16.224 l
+11.173 16.224 l
+10.743 16.224 10.412 15.882 10.412 15.452 c
+10.412 15.022 10.743 14.691 11.173 14.691 c
+ h
+f
+endstream
+endobj
+1 0 obj
+<</Type /Pages
+/Kids [3 0 R ]
+/Count 1
+>>
+endobj
+5 0 obj
+<</BaseFont/Helvetica/Type/Font
+/Encoding/StandardEncoding
+/Subtype/Type1>>
+endobj
+6 0 obj
+<</BaseFont/Helvetica-Bold/Type/Font
+/Encoding/StandardEncoding
+/Subtype/Type1>>
+endobj
+7 0 obj
+<</BaseFont/Helvetica-Oblique/Type/Font
+/Encoding/StandardEncoding
+/Subtype/Type1>>
+endobj
+8 0 obj
+<</BaseFont/Helvetica-BoldOblique/Type/Font
+/Encoding/StandardEncoding
+/Subtype/Type1>>
+endobj
+9 0 obj
+<</BaseFont/Courier/Type/Font
+/Encoding/StandardEncoding
+/Subtype/Type1>>
+endobj
+10 0 obj
+<</BaseFont/Courier-Bold/Type/Font
+/Encoding/StandardEncoding
+/Subtype/Type1>>
+endobj
+11 0 obj
+<</BaseFont/Courier-Oblique/Type/Font
+/Encoding/StandardEncoding
+/Subtype/Type1>>
+endobj
+12 0 obj
+<</BaseFont/Courier-BoldOblique/Type/Font
+/Encoding/StandardEncoding
+/Subtype/Type1>>
+endobj
+13 0 obj
+<</BaseFont/Times-Roman/Type/Font
+/Encoding/StandardEncoding
+/Subtype/Type1>>
+endobj
+14 0 obj
+<</BaseFont/Times-Bold/Type/Font
+/Encoding/StandardEncoding
+/Subtype/Type1>>
+endobj
+15 0 obj
+<</BaseFont/Times-Italic/Type/Font
+/Encoding/StandardEncoding
+/Subtype/Type1>>
+endobj
+16 0 obj
+<</BaseFont/Times-BoldItalic/Type/Font
+/Encoding/StandardEncoding
+/Subtype/Type1>>
+endobj
+2 0 obj
+<<
+/ProcSet [/PDF /Text /ImageB /ImageC /ImageI]
+/Font <<
+/F1 5 0 R
+/F2 6 0 R
+/F3 7 0 R
+/F4 8 0 R
+/F5 9 0 R
+/F6 10 0 R
+/F7 11 0 R
+/F8 12 0 R
+/F9 13 0 R
+/F10 14 0 R
+/F11 15 0 R
+/F12 16 0 R
+>>
+/XObject <<
+>>
+>>
+endobj
+17 0 obj
+<<
+/Producer (jsPDF 1.0.0-trunk)
+/CreationDate (D:20230624092728+03'00')
+>>
+endobj
+18 0 obj
+<<
+/Type /Catalog
+/Pages 1 0 R
+/OpenAction [3 0 R /FitH null]
+/PageLayout /OneColumn
+>>
+endobj
+xref
+0 19
+0000000000 65535 f 
+0000001835 00000 n 
+0000003046 00000 n 
+0000000009 00000 n 
+0000000116 00000 n 
+0000001892 00000 n 
+0000001983 00000 n 
+0000002079 00000 n 
+0000002178 00000 n 
+0000002281 00000 n 
+0000002370 00000 n 
+0000002465 00000 n 
+0000002563 00000 n 
+0000002665 00000 n 
+0000002759 00000 n 
+0000002852 00000 n 
+0000002947 00000 n 
+0000003270 00000 n 
+0000003362 00000 n 
+trailer
+<<
+/Size 19
+/Root 18 0 R
+/Info 17 0 R
+>>
+startxref
+3466
+%%EOF
